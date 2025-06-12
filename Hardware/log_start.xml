@@ -1,0 +1,235 @@
+<batchrender>
+  <environmentinfo>
+    <machineinfo>
+      <machinename>HANPC</machinename>
+      <username>Han</username>
+      <processortype>GenuineIntel, stepping 13, model 14, instruction family 6</processortype>
+      <processorname>Intel Core i7-9700 CPU</processorname>
+      <processornumber>8</processornumber>
+      <ostype>WINDOWS 64 BIT</ostype>
+      <osversion>Windows 11, 64 Bit, Professional Edition (build 23590)</osversion>
+      <oglvendorname>NVIDIA</oglvendorname>
+      <oglrendername>NVIDIA GeForce GTX 1660 Ti</oglrendername>
+      <oglversion>12</oglversion>
+    </machineinfo>
+    <c4dinfo>
+      <c4dversion>2024.1.0</c4dversion>
+      <c4dplugins>advanced_render analytics archigrass bugslife_client c4d_assetbrowser c4d_bitmapfilter c4d_manager c4d_nodeeditor c4d_nodes c4d_objects c4d_simulation c4d_viewport_render c4d_xtensions ca clothilde dynamics hair interop_bpexchange interop_forger interop_misc interop_moves io_alembic io_cadexchange io_collada14 io_collada15 io_compositing io_dwg io_fbx io_forger io_gltf io_goz io_obj io_skp io_substance io_usd mocca mograph motioncam motiontracker python redshift sculpt shader sketch sky sla teamrender thinking_particles tool_system_hybrid uvviewport volumes xpressocore redshift4c4d </c4dplugins>
+    </c4dinfo>
+  </environmentinfo>
+  <fileinfo>
+    <filename>ATOM POCKET v15.c4d</filename>
+    <filepath>H:\Projects\Atom\Hardware</filepath>
+    <renderdatainfo>
+      <rendersettings>&#x6211;&#x7684;&#x6e32;&#x67d3;&#x8bbe;&#x7f6e;</rendersettings>
+      <take>&#x4e3b;&#x8981;</take>
+      <camera>&#x6444;&#x50cf;&#x673a;</camera>
+      <width>4096</width>
+      <height>4096</height>
+      <filmaspect>1</filmaspect>
+      <pixelaspect>1</pixelaspect>
+      <fps>120</fps>
+      <from>0</from>
+      <to>180</to>
+      <steps>1</steps>
+      <saveinfo>
+        <imagepath>H:\Projects\Atom\Introduction</imagepath>
+        <imagedepth>8</imagedepth>
+        <imageformat>MP4</imageformat>
+      </saveinfo>
+      <videopost>
+        <effect id="1011015" name="&#x7d20;&#x63cf;&#x5361;&#x901a;" />
+        <effect id="1036219" name="Redshift" />
+      </videopost>
+    </renderdatainfo>
+  </fileinfo>
+  <renderinfo>
+    <imageinfo frame="0">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="1">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="2">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="3">00:00:06 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="4">00:00:06 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="5">00:00:06 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="6">00:00:06 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="7">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="8">00:00:06 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="9">00:00:06 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="10">00:00:06 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="11">00:00:06 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="12">00:00:08 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="13">00:00:07 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="14">00:00:07 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="15">00:00:07 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="16">00:00:06 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="17">00:00:06 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="18">00:00:06 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="19">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="20">00:00:06 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="21">00:00:06 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="22">00:00:06 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="23">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="24">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="25">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="26">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="27">00:00:06 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="28">00:00:06 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="29">00:00:06 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="30">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="31">00:00:06 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="32">00:00:06 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="33">00:00:06 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="34">00:00:06 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="35">00:00:06 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="36">00:00:06 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="37">00:00:06 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="38">00:00:06 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="39">00:00:18 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="40">00:00:07 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="41">00:00:08 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="42">00:00:07 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="43">00:00:09 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="44">00:00:07 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="45">00:00:06 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="46">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="47">00:00:07 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="48">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="49">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="50">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="51">00:00:06 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="52">00:00:07 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="53">00:00:07 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="54">00:00:07 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="55">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="56">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="57">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="58">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="59">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="60">00:00:07 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="61">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="62">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="63">00:00:06 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="64">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="65">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="66">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="67">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="68">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="69">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="70">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="71">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="72">00:00:06 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="73">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="74">00:00:06 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="75">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="76">00:00:06 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="77">00:00:06 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="78">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="79">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="80">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="81">00:00:06 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="82">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="83">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="84">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="85">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="86">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="87">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="88">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="89">00:00:09 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="90">00:00:07 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="91">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="92">00:00:09 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="93">00:00:10 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="94">00:00:10 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="95">00:00:09 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="96">00:00:10 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="97">00:00:06 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="98">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="99">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="100">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="101">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="102">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="103">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="104">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="105">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="106">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="107">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="108">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="109">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="110">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="111">00:00:06 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="112">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="113">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="114">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="115">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="116">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="117">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="118">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="119">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="120">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="121">00:00:06 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="122">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="123">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="124">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="125">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="126">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="127">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="128">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="129">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="130">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="131">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="132">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="133">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="134">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="135">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="136">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="137">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="138">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="139">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="140">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="141">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="142">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="143">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="144">00:00:04 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="145">00:00:04 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="146">00:00:04 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="147">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="148">00:00:04 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="149">00:00:04 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="150">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="151">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="152">00:00:05 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="153">00:00:04 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="154">00:00:04 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="155">00:00:04 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="156">00:00:04 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="157">00:00:04 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="158">00:00:04 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="159">00:00:04 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="160">00:00:04 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="161">00:00:04 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="162">00:00:04 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="163">00:00:04 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="164">00:00:04 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="165">00:00:04 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="166">00:00:04 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="167">00:00:04 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="168">00:00:04 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="169">00:00:04 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="170">00:00:04 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="171">00:00:04 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="172">00:00:04 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="173">00:00:04 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="174">00:00:04 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="175">00:00:04 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="176">00:00:04 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="177">00:00:04 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="178">00:00:04 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="179">00:00:04 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+    <imageinfo frame="180">00:00:04 H:\Projects\Atom\Introduction\start.mp4</imageinfo>
+  </renderinfo>
+  <batchinfo>
+    <added>2023/11/28, 13:39:18</added>
+    <started>2023/11/28, 13:39:19</started>
+    <rendertime>00:18:34</rendertime>
+    <result>&#x5df2;&#x5b8c;&#x6210;</result>
+  </batchinfo>
+</batchrender>
