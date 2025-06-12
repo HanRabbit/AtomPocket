@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://github.com/HanRabbit/AtomUI/">
-    <img src="atom.png" alt="Logo" width="80" height="80">
+    <img src="Introduction/atom.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">ATOM UI</h3>
